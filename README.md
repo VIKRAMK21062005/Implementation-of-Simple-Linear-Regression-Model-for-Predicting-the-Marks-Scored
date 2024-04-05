@@ -72,6 +72,7 @@ print("RMSE= ",rmse)
 ![Screenshot 2024-02-24 155229](https://github.com/VIKRAMK21062005/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120624033/d4d571a2-ea00-48a0-87e3-8cfece72a263)
 
 ## Testing Set:
+
 ![Screenshot 2024-02-24 155253](https://github.com/VIKRAMK21062005/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120624033/46b026d7-1e4c-4111-83f2-2dc685f6a981)
 
 ## Result:
